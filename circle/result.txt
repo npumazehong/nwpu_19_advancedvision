@@ -1,0 +1,5 @@
+START
+Goal_ID=ZB008;Goal_Radius=13.3
+Goal_ID=ZC005;Goal_Radius=28.5
+Goal_ID=ZB010;Goal_Radius=8.1
+END
